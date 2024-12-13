@@ -21,8 +21,6 @@ This project aims to empower farmers and foster trust across the agricultural ec
 This repository includes:
 
 - **Project Report**: Detailed documentation of the AgroTrust project, including its objectives, design, implementation, and outcomes.
-- **Diagrams and Visuals**: Flowcharts, system architecture diagrams, and other visuals to explain the project's structure.
-- **Case Studies**: Examples of AgroTrust in action, showcasing its impact in real-world scenarios.
 - **References**: Supporting research and materials referenced in the project development.
 
 ---
